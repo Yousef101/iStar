@@ -26,3 +26,5 @@ NodeJS >=10.0.0
 
 ### Running the Project
 Use `npm install` to download dependencies. Finally, you can run the bot from `starboard.js`.
+
+inspired by https://github.com/Rushnett/starboard
