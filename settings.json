@@ -1,0 +1,10 @@
+{
+  "token": "Your-Token",
+  "serverID": "636689601137999882",
+  "channelID": "654649219872849955",
+  "reactionEmoji": "⭐",
+  "threshold": 2,
+  "hexcolor": "00AE86",
+  "dateCutoff": 3,
+  "fetchLimit": 100
+}
