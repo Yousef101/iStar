@@ -1,7 +1,7 @@
 # iStar
-Very simple and easy to host yourself StarBoard discord bot 
+Very simple and easy to host yourself StarBoard discord bot. inspired by https://github.com/Rushnett/starboard 
 
-# support server <a href="https://discord.gg/TWy6pSZ" target="_blank">Discord</a>.
+# see the bot in action <a href="https://discord.gg/TWy6pSZ" target="_blank">Discord</a>.
 
 ## Getting Started
 ### Requirements
@@ -27,4 +27,4 @@ NodeJS >=10.0.0
 ### Running the Project
 Use `npm install` to download dependencies. Finally, you can run the bot from `starboard.js`.
 
-inspired by https://github.com/Rushnett/starboard
+
